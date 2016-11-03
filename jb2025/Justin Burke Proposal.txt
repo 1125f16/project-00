@@ -1,0 +1,9 @@
+Justin Burke Proposal
+
+Issue: What mood do people think you're in?
+
+Solution: Using Microsoft Cognitive APIs, a Tessel 2 and Camera, I plan to build a box that reflects your mood back to yourself. 
+
+Team Name: Mirror on the Wall
+
+Team Members: Justin Burke
