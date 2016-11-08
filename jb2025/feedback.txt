@@ -1,0 +1,7 @@
+Great idea, lots of interesting applications!
+
+If you run into hardware problems, consider simulating the camera. Software driven events can simulate the camera.
+
+Look for a good bank of test images. 
+
+This should be a fun project, enjoy!

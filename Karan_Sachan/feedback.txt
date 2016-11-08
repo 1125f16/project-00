@@ -1,0 +1,7 @@
+Interesting idea!
+
+There are few startups like Feedly, Metanews, Google News, which have tried to do aggregation. You can start by reviewing their approach.
+
+You might also consider a learning algorithm. One that learns from the news sources, articles, topics, and sites you visit. If this works, you could present an integrated view every morning. 
+
+Browser history could be used as a source of personal interest.

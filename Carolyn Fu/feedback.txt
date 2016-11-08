@@ -1,0 +1,6 @@
+Interesting idea!
+
+Consider using Internet of Things (IOT) as an application domain. It would be useful to understand the internal classification of IOT, the rate at which each category is growing/shrinking. The categories favored by the fortune 500, what industries? What are the leaning startups? What area of the country/world are they in?
+
+You could think of the project as decision support for venture capital.
+

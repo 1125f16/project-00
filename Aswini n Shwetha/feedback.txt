@@ -1,0 +1,5 @@
+Interesting idea!
+
+Take a look at how political polls are done. They face a similar challenge. Leading newspapers often combine multiple polls.  Nate Silver, 538, an others have worked on this problem.
+
+There is a lot of work in this space. Make sure you build on what has already been done.

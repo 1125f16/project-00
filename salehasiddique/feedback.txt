@@ -1,0 +1,7 @@
+Great idea!
+
+There has been a lot of work done on Yelp reviews. You may want to leverage some of that work.
+
+Not all reviews are equal. You may want to consider review impact, weight, community approval, comments, etc. 
+
+There will also be different metrics of importance for each customer. You could consider a learning algorithm, one that filters reviews based on user preferences.

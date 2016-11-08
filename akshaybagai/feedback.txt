@@ -1,0 +1,5 @@
+Great project idea!
+
+Check that the libraries are available for the Raspberry Pi. Likewise, make sure the libraries are available in languages you can program.
+
+You may want to start with a simulation and replace components as you build them.

@@ -1,0 +1,6 @@
+Great idea!
+
+Consider simulating components until ready. That way you will have a working system even if a hardware component fails.
+
+This should be a fun project, enjoy!
+

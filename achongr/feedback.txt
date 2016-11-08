@@ -1,0 +1,5 @@
+Interesting project!
+
+Make sure you identify your highest risk early. 
+
+There are good tutorials on how to create voice skills. You will need an amazon AWS account.
