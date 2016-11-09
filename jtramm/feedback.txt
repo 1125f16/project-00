@@ -2,5 +2,7 @@ Great idea!
 
 Consider simulating components until ready. That way you will have a working system even if a hardware component fails.
 
+Calibration will be key to a succesful system. The approach that NEST takes on this with it's learning thermostat is to keep the human in the loop, so that the system will adjust to ensure the users preferences are met.
+
 This should be a fun project, enjoy!
 

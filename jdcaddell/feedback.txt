@@ -4,4 +4,6 @@ It is an ambitious undertaking. Make sure you do a risk analysis early on and pi
 
 Consider simulating components until ready. That way you will have a working system even if a hardware component fails.
 
+If you are struggling with the hardware aspect, keep in mind that there are many off the shelf robot kits available.
+
 This should be a fun project, enjoy!

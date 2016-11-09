@@ -3,3 +3,5 @@ Great project idea!
 Check that the libraries are available for the Raspberry Pi. Likewise, make sure the libraries are available in languages you can program.
 
 You may want to start with a simulation and replace components as you build them.
+
+This project will rely on suitable instrumentation of the CNC machine, think carefully about what information different kinds of sensors will give you and how that applies to the process.

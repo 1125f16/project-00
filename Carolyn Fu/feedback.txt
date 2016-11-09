@@ -4,3 +4,7 @@ Consider using Internet of Things (IOT) as an application domain. It would be us
 
 You could think of the project as decision support for venture capital.
 
+Make sure to take advantage of existing web "scraping" tools, this will allow you to focus on your analysis
+
+
+

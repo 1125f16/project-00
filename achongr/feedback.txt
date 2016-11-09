@@ -3,3 +3,5 @@ Interesting project!
 Make sure you identify your highest risk early. 
 
 There are good tutorials on how to create voice skills. You will need an amazon AWS account.
+
+For the hardware aspect, you can implement and test using the onboard LED's to indicate your light being turned on/off. You can add the relay/motor at a later stage

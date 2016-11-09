@@ -4,4 +4,6 @@ If you run into hardware problems, consider simulating the camera. Software driv
 
 Look for a good bank of test images. 
 
+Also consider the potential use cases, when would it be useful for the user to know what mood their face expresses? Practiving for speeches come to mind but there are likely lots more
+
 This should be a fun project, enjoy!
