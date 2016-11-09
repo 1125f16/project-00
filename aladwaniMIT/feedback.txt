@@ -1,0 +1,7 @@
+Great project idea!
+
+Make sure you can process the data from the IRIS repository into a friendly format. If you can get JSON or GeoJSON that is usually the best.
+
+Interestingly, there are no projects on Github on this topic. If you enjoy the topic, you can launch an open source project.
+
+Work on "small" formulations to test your assumptions. You can divide your code into modules, start with synthetic data until you get all the pieces working.
